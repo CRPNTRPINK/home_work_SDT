@@ -3,7 +3,7 @@ from typing import Dict
 from aiohttp import ClientSession
 from fastapi import HTTPException
 
-x_yandex_api_key = '692e1361-21cd-42be-98f1-426e0c3c9fc0'
+x_yandex_api_key = '...'
 icon_url = 'https://yastatic.net/weather/i/icons/funky/dark/{}.svg'
 
 
